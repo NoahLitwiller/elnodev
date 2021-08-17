@@ -1,0 +1,18 @@
+*{
+    font-family: 'IBM Plex Mono', monospace;    
+}
+
+#title_text{
+    font-size: 100px;
+}
+
+#projects_text{
+    margin-left: 15px;
+    margin-top: 20px;     
+}
+
+#card_container{
+    margin-top: 20px;    
+    position: absolute;
+    left: 10px;
+}
